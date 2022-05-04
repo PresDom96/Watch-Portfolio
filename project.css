@@ -27,7 +27,7 @@ box-sizing: border-box;
     display: flex;
     justify-content: center;
     align-items: center;
-    background: #000000 url("../images/clock numbers.png");
+    background: #000000 url("./clock numbers.png");
     background-size: cover;
     border-radius: 50%;
     border: 20px solid #000000
